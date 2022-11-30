@@ -1,6 +1,8 @@
 
 # Laboratorio: MODELO DE DEEP LEARNING PARA DETERMINAR LA EDAD DE UNA PERSONA
 
+Israel Diaz - idiazg@udd.cl
+
 ## Mockup SECURITAS
 
 Proyecto 2 para el ramo de Productos de Datos del Magister en Data Science de la Universidad del Desarrollo. 
