@@ -1,0 +1,6 @@
+Flask
+gunicorn
+numpy
+opencv-contrib-python
+dlib
+flask-bootstrap
